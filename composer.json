@@ -1,0 +1,13 @@
+{
+    "name": "studioemma/tagfield",
+    "description": "Fork of Tag Field V2 plugin by Graphyweb.com",
+    "type": "pimcore-plugin",
+    "authors": [
+        {
+            "name": "mookymook",
+            "email": "mookymook@graphyweb.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
